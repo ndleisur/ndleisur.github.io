@@ -5,12 +5,12 @@
     <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://example.com/</link>
     <description></description>
-    <pubDate>Thu, 15 Sep 2016 12:16:27 -0400</pubDate>
+    <pubDate>Sat, 17 Sep 2016 12:36:49 -0400</pubDate>
     
       <item>
         <title>TECDP Intern Project 2016</title>
-        <link>http://example.com/2016/08/19/TECDP-intern-project.html</link>
-        <guid isPermaLink="true">http://example.com/2016/08/19/TECDP-intern-project.html</guid>
+        <link>http://example.com/2016/08/19/TECDP-intern-project-2.html</link>
+        <guid isPermaLink="true">http://example.com/2016/08/19/TECDP-intern-project-2.html</guid>
         <description>&lt;p&gt;For the summer of 2016, I took a role as a project manager with Cigna’s Technology Early Career Development Program, and as part of that, I worked as an application developer for a mobile web application with a virtual reality component targeting millennials with mental health issues. I worked on a team of eight interns in a subteam of four developers.&lt;/p&gt;
 
 &lt;p&gt;This application leveraged several technologies:&lt;/p&gt;
@@ -30,7 +30,7 @@
         <title>Raúl Zurita</title>
         <link>http://example.com/2016/05/10/Ra-l-Zurita.html</link>
         <guid isPermaLink="true">http://example.com/2016/05/10/Ra-l-Zurita.html</guid>
-        <description>&lt;p&gt;During my time as a student at the Complutense University of Madrid, I developed a responsive web application for a project taken on for a class - Hispanoamerican Literature - with collaborative partner Meredith Goodall. This project was an analisis of Raúl Zurita’s life as an author and of some of his works. Meredith created all content, and I created all html and css files.&lt;/p&gt;
+        <description>&lt;p&gt;During my time as a student at the Complutense University of Madrid, I developed a responsive web application for a project taken on for a class - Hispanoamerican Literature - with collaborative partner Meredith Goodall. This project was an analisis of Raúl Zurita’s life as an author and of some of his works. Meredith created all content, and I created all HTML and CSS files.&lt;/p&gt;
 
 &lt;p&gt;This application leveraged Twitter Bootstrap.&lt;/p&gt;
 
@@ -40,86 +40,35 @@
       </item>
     
       <item>
-        <title>Sample post</title>
-        <link>http://example.com/2014/11/30/sample-post-copy.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/30/sample-post-copy.html</guid>
-        <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ut gravida lorem.&lt;/p&gt;
+        <title>El ABÑ del Joven Filólogo</title>
+        <link>http://example.com/2016/02/08/el-abn.html</link>
+        <guid isPermaLink="true">http://example.com/2016/02/08/el-abn.html</guid>
+        <description>&lt;p&gt;When I was studying at the Complutense University of Madrid, I took a course called Informatics Tools Oriented for the Instruction of the Spanish Language. As a part of this course, I managed technical support for a team of four linguistics students. In this role I taught my team the fundamentals of web development and managed a website to display the project’s contents. I was also the lead for all technical support members in the class. As a part of this, I gave several lectures on basic HTML and CSS and assisted with the creation and maintenance of seven other project websites.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Consectetur adipiscing elit&lt;/li&gt;
-  &lt;li&gt;Donec a diam lectus&lt;/li&gt;
-  &lt;li&gt;Sed sit amet ipsum mauris&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The entirety of communication done in these roles was in Spanish.&lt;/p&gt;
 
-&lt;p&gt;Ut turpis felis, pulvinar a semper sed, adipiscing id dolor. Pellentesque auctor nisi id magna consequat sagittis. Curabitur dapibus enim sit amet elit pharetra tincidunt feugiat nisl imperdiet. Ut convallis libero in urna ultrices accumsan. Donec sed odio eros. Donec viverra mi quis quam pulvinar at malesuada arcu rhoncus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In rutrum accumsan ultricies. Mauris vitae nisi at sem facilisis semper ac in est.&lt;/p&gt;
-
-&lt;p&gt;Nunc diam velit, adipiscing ut tristique vitae, sagittis vel odio. Maecenas convallis ullamcorper ultricies. Curabitur ornare, ligula &lt;em&gt;semper consectetur sagittis&lt;/em&gt;, nisi diam iaculis velit, id fringilla sem nunc vel mi. Nam dictum, odio nec pretium volutpat, arcu ante placerat erat, non tristique elit urna et turpis. Quisque mi metus, ornare sit amet fermentum et, tincidunt et orci. Fusce eget orci a orci congue vestibulum.&lt;/p&gt;
-
-&lt;p&gt;Ut dolor diam, elementum et vestibulum eu, porttitor vel elit. Curabitur venenatis pulvinar tellus gravida ornare. Sed et erat faucibus nunc euismod ultricies ut id justo. Nullam cursus suscipit nisi, et ultrices justo sodales nec. Fusce venenatis facilisis lectus ac semper. Aliquam at massa ipsum. Quisque bibendum purus convallis nulla ultrices ultricies. Nullam aliquam, mi eu aliquam tincidunt, purus velit laoreet tortor, viverra pretium nisi quam vitae mi. Fusce vel volutpat elit. Nam sagittis nisi dui.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Suspendisse lectus leo, consectetur in tempor sit amet, placerat quis neque&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Etiam luctus porttitor lorem, sed suscipit est rutrum non. Curabitur lobortis nisl a enim congue semper. Aenean commodo ultrices imperdiet. Vestibulum ut justo vel sapien venenatis tincidunt.&lt;/p&gt;
-
-&lt;p&gt;Phasellus eget dolor sit amet ipsum dapibus condimentum vitae quis lectus. Aliquam ut massa in turpis dapibus convallis. Praesent elit lacus, vestibulum at malesuada et, ornare et est. Ut augue nunc, sodales ut euismod non, adipiscing vitae orci. Mauris ut placerat justo. Mauris in ultricies enim. Quisque nec est eleifend nulla ultrices egestas quis ut quam. Donec sollicitudin lectus a mauris pulvinar id aliquam urna cursus. Cras quis ligula sem, vel elementum mi. Phasellus non ullamcorper urna.&lt;/p&gt;
+&lt;p&gt;My team’s project details four different technologies useful to those who do research in the field of linguistics, including online dictionaries and corpora. You can find the finished project site &lt;a href=&quot;http://elabn.weebly.com/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Nov 2014 00:00:00 -0500</pubDate>
+        <pubDate>Mon, 08 Feb 2016 00:00:00 -0500</pubDate>
       </item>
     
       <item>
-        <title>Markdown and HTML</title>
-        <link>http://example.com/2014/11/28/markdown-and-html.html</link>
-        <guid isPermaLink="true">http://example.com/2014/11/28/markdown-and-html.html</guid>
-        <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
+        <title>TECDP Intern Project 2015</title>
+        <link>http://example.com/2015/08/14/TECDP-intern-project-1.html</link>
+        <guid isPermaLink="true">http://example.com/2015/08/14/TECDP-intern-project-1.html</guid>
+        <description>&lt;p&gt;For the summer of 2015, I took a role as an application developer with Cigna’s Technology Early Career Development Program, and as part of that, I worked as an application developer for a mobile web application targeting caregivers. I worked on a team of thirty interns in a subteam of seven.&lt;/p&gt;
 
-&lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
+&lt;p&gt;This application leveraged several technologies:&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;First Header&lt;/th&gt;
-      &lt;th&gt;Second Header&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-      &lt;td&gt;Content Cell&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;ul&gt;
+  &lt;li&gt;Twitter Bootstrap&lt;/li&gt;
+  &lt;li&gt;Angular Javascript&lt;/li&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Here’s an example of an image, which is included using Markdown:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/sample_feature_img_2.png&quot; alt=&quot;Geometric pattern with fading gradient&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Rouge by default.&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// count to ten&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// count to twenty&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Type Theme uses KaTeX to display maths. Equations such as &lt;script type=&quot;math/tex&quot;&gt;S_n = a \times \frac{1-r^n}{1-r}&lt;/script&gt; can be displayed inline.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, they can be shown on a new line:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;f(x) = \int \frac{2x^2+4x+6}{x-2}&lt;/script&gt;
+&lt;p&gt;My team presented this application to a panel made up of leaders in the company’s IT department, including the company’s Global Chief Information Officer, and was awarded first place among all teams to present.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 28 Nov 2014 00:00:00 -0500</pubDate>
+        <pubDate>Fri, 14 Aug 2015 00:00:00 -0400</pubDate>
       </item>
     
   </channel>

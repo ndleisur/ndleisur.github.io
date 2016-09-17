@@ -8,7 +8,7 @@ theme_settings:
   title: Nick Leisure
   avatar: 
   gravatar: # Email MD5 hash
-  description: "Nick Leisure is a senior at Indiana University" # used by search engines
+  description: "Nick Leisure is a senior at Indiana University." # used by search engines
 
   # Header and footer text
   header_text: >
