@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-My name is Nick Leisure, and I am currently an undergraduate student at Indiana University Bloomington pursuing dual degrees in Computer Science with a minor in Informatics and Spanish with minors in Latino Studies and General Linguistics. I plan to graduate in December 2017.
+My name is Nick Leisure, and I am currently an undergraduate student at Indiana University Bloomington pursuing dual degrees in Computer Science with a minor in Informatics and Spanish with minors in Latino Studies and General Linguistics. I plan to graduate in August 2017.
 
 Here I have a collection of the work I have done across a number of different fields and mainly with technology.
 
